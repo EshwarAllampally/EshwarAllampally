@@ -1,1 +1,1 @@
-![Banner Image]([http://url/to/img.png](https://raw.githubusercontent.com/EshwarAllampally/EshwarAllampally/main/Banner.png)https://raw.githubusercontent.com/EshwarAllampally/EshwarAllampally/main/Banner.png)
+https://raw.githubusercontent.com/EshwarAllampally/EshwarAllampally/main/Banner.png
